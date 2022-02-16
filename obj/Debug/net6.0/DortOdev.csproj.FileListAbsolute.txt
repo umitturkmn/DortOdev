@@ -1,0 +1,15 @@
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/DortOdev
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/DortOdev.deps.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/DortOdev.runtimeconfig.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/DortOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/ref/DortOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/bin/Debug/net6.0/DortOdev.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.csproj.AssemblyReference.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.AssemblyInfoInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.AssemblyInfo.cs
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/ref/DortOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/DortOdev/obj/Debug/net6.0/DortOdev.genruntimeconfig.cache
